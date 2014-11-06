@@ -1,0 +1,23 @@
+{
+  "name": "vue-ui-core",
+  "version": "0.1.0",
+  "description": "The core CSS components of Semantic-UI used in vue-ui",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:agonbina/vue-ui-core.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-ui",
+    "semantic-ui"
+  ],
+  "author": "Agon Bina <agon_bina@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agonbina/vue-ui-core/issues"
+  },
+  "homepage": "https://github.com/agonbina/vue-ui-core"
+}
