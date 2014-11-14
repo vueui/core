@@ -1,5 +1,6 @@
 # Project specific
 semantic-ui
+dist/components
 
 # Logs
 logs

@@ -22,7 +22,6 @@ The components exposed are the following:
        "segment",
        "step",
        "breadcrumb",
-       "form",
        "grid",
        "menu",
        "message",
