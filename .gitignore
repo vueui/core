@@ -1,6 +1,7 @@
 # Project specific
 semantic-ui
 dist/components
+dist/*.js
 
 # Logs
 logs

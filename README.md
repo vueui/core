@@ -37,12 +37,14 @@ The components exposed are the following:
 ## Setup to customize Semantic-UI
 
 1. clone Semantic-UI in this directory
-```
-git clone https://github.com/Semantic-Org/Semantic-UI.git -b 1.0 semantic-ui
-```
+	```
+	git clone https://github.com/Semantic-Org/Semantic-UI.git -b 1.0 semantic-ui
+	```
 2. Copy the ```semantic.json``` config file to ```semantic-ui```
 3. Copy ```theme.config``` into ```semantic-ui/src```
 4. ```cd``` into ```semantic-ui``` and do an ```npm install```
 5. Run ```mv src/_site src/site```
 6. Edit Semantic-UI how you normally would to customize it (ex. change themes, variables, overrides)
 7. Run ```gulp build```
+
+Now you can import the files in ```/dist``` into your project.
